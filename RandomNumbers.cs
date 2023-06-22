@@ -1,12 +1,12 @@
-﻿void DisplayRandomNumbers()
-{
-  Random random = new Random();
+﻿// void DisplayRandomNumbers()
+// {
+//   Random random = new Random();
 
-  for (int i = 0; i < 5; i++)
-  {
-    Console.Write($"{random.Next(1,100)} ");
-  }
-}
+//   for (int i = 0; i < 5; i++)
+//   {
+//     Console.Write($"{random.Next(1,100)} ");
+//   }
+// }
 
-Console.WriteLine("Display random numbers:");
-DisplayRandomNumbers();
+// Console.WriteLine("Display random numbers:");
+// DisplayRandomNumbers();
