@@ -1,0 +1,15 @@
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.csproj.AssemblyReference.cache
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.AssemblyInfoInputs.cache
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.AssemblyInfo.cs
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.csproj.CoreCompileInputs.cache
+/Users/leobanos/random_projects/c_sharp/MethodProjects/bin/Debug/net7.0/MethodProjects
+/Users/leobanos/random_projects/c_sharp/MethodProjects/bin/Debug/net7.0/MethodProjects.deps.json
+/Users/leobanos/random_projects/c_sharp/MethodProjects/bin/Debug/net7.0/MethodProjects.runtimeconfig.json
+/Users/leobanos/random_projects/c_sharp/MethodProjects/bin/Debug/net7.0/MethodProjects.dll
+/Users/leobanos/random_projects/c_sharp/MethodProjects/bin/Debug/net7.0/MethodProjects.pdb
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.dll
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/refint/MethodProjects.dll
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.pdb
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/MethodProjects.genruntimeconfig.cache
+/Users/leobanos/random_projects/c_sharp/MethodProjects/obj/Debug/net7.0/ref/MethodProjects.dll
